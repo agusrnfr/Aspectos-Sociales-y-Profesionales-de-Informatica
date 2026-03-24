@@ -1,0 +1,261 @@
+1 -  Una licencia no propietaria se encuentra definida por
+
+a) La utilización de la licencia GPL
+b) El carácter gratuito del contrato
+c) El acceso en el código fuente
+
+Rta: c
+
+2 -  Si un programa que llama a una biblioteca licenciada mediante LGPL implica que 
+
+a) La biblioteca debe licenciarse con la licencia del programa principal 
+b) Se mantiene la independencia de ambos programas
+c) El programa principal debe licenciarse con la licencia de la biblioteca
+
+Rta: b
+
+3 -  La firma digital mantiene las siguientes presunciones
+
+a) Integridad y confidencialidad
+b) Confidencialidad y Autoria
+c) Autoría e Integridad
+
+Rta: c
+
+4 -  Según el Fallo Belen Rodriguez, la responsabilidad de los buscadores y hostings es
+
+a) Subjetiva
+b) Objetiva
+c) No lo define
+
+Rta: a
+
+5 -  El click and warp agreement tiene como requisito
+
+a) El acceso a los términos y condiciones que se va a aceptar
+b) El uso de firma digital 
+c) La existencia de claúsulas predispuestas
+
+Rta: a
+
+6 -  La tenencia simple de pornografía infantil actualmente
+
+a) No esta penada
+b) Es una figura atenuada de la tenencia con fines de distribución
+c) Se asimila a la tenencia y comercialización
+
+Rta: b
+
+7 -  El delito de acceso no autorizado tiene como caracteristica
+
+a) Solo se aplica a sistemas informáticos dedicados a servicios públicos
+b) Se puede configurar tanto por culpa como por dolo
+c) Es un delito subsidiario: Solo se configura si no se comete otro delito previsto en el código   
+
+Rta: c
+
+8 -  El número de teléfono es un dato mínimo de identificación de una persona
+
+Rta: F
+
+9 -  Los datos médicos no pueden ser recolectados por particulares por principio general
+
+Rta: V
+
+10 -  Los datos disociados se rigen por la ley de bancos de datos
+
+Rta: V
+
+11 -  Ley de bancos de datos guarda silencio sobre la responsabilidad civil de los titulares de bancos de datos
+
+Rta: V art 31
+
+12 -  Los datos sensibles no pueden ser recolectados salvo excepciones previstas por la ley
+
+Rta: V
+
+13 -  No es necesaria la autorización para recabar los datos si tacitamente el titular de los datos presta su conformidad
+
+Rta: F
+
+14 - La licencia de uso propietaria o privativa esta definida por 
+
+a) La prohibición del acceso al código fuente
+b) El carácter oneroso
+c) La existencia de derechos de autor sobre el programa
+
+Rta: a
+
+15 - Cual es la relación entre la open source y el free software
+
+a) Son sinónimos
+b) La open source es una subdivisión del movimiento GNU
+c) Son dos movimientos diferentes
+
+Rta: b y/o c
+
+16 - El copyleft impide que el usuario modifique 
+
+a) Los términos y condiciones de la licencia
+b) El carácter gratuito de la distribución
+c) El código fuente
+
+Rta: a
+
+17 - La licencia oficial de la open source fundation es 
+
+a) La Python
+b) La Apache
+c) No tiene una licencia oficial 
+
+Rta: c
+
+18 - LGPL es 
+
+a) Una licencia de open source
+b) Un licencia GNU que se utiliza para librerías
+c) Un versión reducida de la GPL
+
+Rta: a, b, c
+
+19 - La internet se encuentra manejada en la actualidad por 
+
+a) La sociedad de internet
+b) La Fundación de Ciencias 
+c) El Ministerio de defensa de los EE UU
+
+Rta: a
+
+20 - La relación entre el nombre dominio y la marca comercial es 
+
+a) La marca comercial absorbe al nombre de dominio
+b) El nombre de dominio absorbe a la marca comercial
+c) Son independientes 
+
+Rta: a
+
+21 - Los nombre de dominio con genéricos geograficos son manejados por 
+
+a) La autoridad de asignación de números de internet
+b) La autoridad de aplicación del país que refiera dicho dominio
+c) Queda en manos de particulares que concesionan el servicio
+
+Rta: b
+
+22 - Según lo establecido por el fallo mayoritario, una vez debidamente notificados, los buscadores y hosting deben bloquear el contenido
+
+a) Solo el contenido denunciado
+b) El contenido que consideren es manifiestamente ilegal
+c) Deben activamente buscar y bloquear el contenido similar al denunciado
+
+Rta: a
+
+24 - Cuál es la regulación actual de la tenencia de pornografía infantil en la Republica Argentina 
+
+a) Se penaliza la tenencia simple y la tenencia con fines de distribución  
+b) Se criminaliza la tenencia con fines de distribución 
+c) Se aplica la misma pena que la distribución y producción del material
+
+Rta: a
+
+25 - La destrucción negligente de datos de un sistema esta penada como 
+
+a) No esta penada. El delito de daño siempre implica dolo 
+b) Como una figura atenuada (menos pena) del daño 
+c) A los efectos de la figura no importa si se produjo por dolo o culpa
+
+Rta: b
+
+26 - Una estafa informática implica 
+
+a) Un engaño producido por medios informáticos 
+b) La obtención de los datos de una persona mediante técnicas de ingeniería social 
+c) La modificación del funcionamiento del sistema 
+
+Rta: c
+
+27 - Al momento de la sanción de la ley, la aplicación  Whassapp no existía. Si una persona interfiere con dichos mensajes comete un delito?
+
+a) Si porque el tipo penal refiere a toda comunicación electronica 
+b) Si, porque por analogía se amplia a los servicios similares pero no previstos en el texto
+c) No, porque no esta previsto en la ley
+
+Rta: a
+
+28 - El phishing esta previsto en el código como  
+
+a) Una forma de estafa 
+b) Una forma de hurto
+c) No esta previsto en el código
+
+Rta: a
+
+
+29. ¿Cuál es la edad máxima para que se considere pornografía infantil?
+
+a) 14
+b) 16
+c) 18
+
+Rta: c
+
+30. CLASIFICAR DATOS (personales, disociados, de la naturaleza, sensible)
+
+Rta:
+Socios de un club: personales
+porcentaje de precipitaciones: de la naturaleza
+miembro de gremio camioneros: sensible
+datos de tu tarjeta: sensible
+fans de taylor: personales
+
+31. Qué tipo de tarjeta debe ser para que se considere una estafa
+
+a) Debito
+b) Credito
+c) Ambas
+
+Rta: c
+
+32. Qué pasa en un contrato ESCROW de código fuente
+En el caso de licencias propietarias, el dueño es el único que puede ver el código fuente, por lo tanto es el único que puede hacer mantenimiento.
+Un contrato escrow (también conocido como contrato de depósito en garantía) es un tipo de contrato en el cual una tercera parte, denominada agente de escrow, actúa como depositario neutral para retener y administrar ciertos activos o documentos en nombre de dos partes principales, el comprador y el vendedor, hasta que se cumplan ciertas condiciones o se complete un acuerdo.
+El agente de escrow es una entidad o persona de confianza designada para recibir y retener los activos o documentos relacionados con la transacción hasta que se cumplan las condiciones establecidas en el contrato. Esto brinda seguridad y protección a ambas partes involucradas, ya que el agente de escrow se asegura de que los términos del contrato se cumplan antes de liberar los activos o documentos.
+
+33 Marque con una cruz cual o cuales de los siguientes enunciados corresponden a funciones de los certificadores licenciados
+a) Emitir certificados digitales    V
+b) Establecer procedimientos de revocación certificados digitales  F
+c) Identificar certificados digitales   V
+d) Mantener copia de certificados digitales V
+e) Establecer estándares tecnológicos y de seguridad para los certificados digitales    F
+f) Revocar certificados digitales   V
+g) Dar a conocer el estado de los certificados digitales    V
+h) Publicar lsitas de certificados revocados    V
+i) Marcar pautas de conservación de los certificados digitales  F
+
+34 Al final de cada enunciado coloque una L si correponde al principio de licitud, una F si correponde al de finalidad, un P si correponde al de pertinencia y una E si correponde al de exactitud
+
+a) Los datos no peuden ser ambiguos     E
+b) Los datos a recolectar deben estar relacionados con la finaldiad de la base   P
+c) Las bases de deatos deben tener un fin permitido  L
+d) Los datos no pueden ser tratados de mantera incompatible con el proposito original de la base de datos    F
+e) La recoleccion de datos debe tener un propósito socialmente válido    L
+
+
+35 Marque con una X cual o cuales de los siguientes datos REQUIEREN CONSENTIMIENTO del titular para ser recolectados
+
+a) Nombre                   
+b) Creencnia religiosa      X
+c) Afiliación partidiaria   X
+d) Documento                
+e) Teléfono                 X
+f) Nombre de los padres     X
+g) Profesión                
+h) Dirección de mail        X
+
+36 DERECHO DE ACCESO. Al lado de cada enunciado coloque una V si es verdadero y una F si es falso
+
+a) Significa saber qué conocimientos sobre nosotros tienen terceras personas    V
+b) Solo se ejerce por vía administrativa    F
+c) Se puede ejercitar sobre bancos de datos públicos o privados V
+d) Siempre es gratuito  F
+e) Los bancos de datos privados no deben negarse a dar la información requerida V
